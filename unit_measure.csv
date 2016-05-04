@@ -1,0 +1,14 @@
+1000PERS,1000 persons
+PC_TOT_HRS,Percentage of total (based on hours worked)
+PC_TOT_PERS,Percentage of total (based on persons)
+PCH_PRE_FTE,Percentage change over previous period (based on full-time equivalents)
+PCH_PRE_HRS,Percentage change over previous period (based on hours worked)
+PCH_PRE_JOB,Percentage change over previous period (based on jobs)
+PCH_SAME_FTE,Percentage change compared to same period in previous year (based on full-time equivalents)
+PCH_SAME_HRS,Percentage change compared to same period in previous year (based on hours worked)
+PCH_SAME_JOB,Percentage change compared to same period in previous year (based on employment)
+PCH_PRE_PERS,Percentage change over previous period (based on persons)
+PCH_SAME_PERS,Percentage change compared to same period in previous year (based on persons)
+1000HRS,Thousands of hours worked
+1000JOB,Thousands of jobs
+1000FTE,Thousands full-time equivalents
